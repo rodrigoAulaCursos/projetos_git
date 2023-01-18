@@ -3,7 +3,7 @@ package com.exemplo.git.model;
 import java.util.Date;
 
 public class Pessoa {
-	//Teste
+	
 	private String nome;
 	private String email;
 	private String cpf;
